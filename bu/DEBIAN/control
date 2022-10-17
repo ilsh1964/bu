@@ -1,0 +1,8 @@
+Package: bu
+Version: 1.1
+Architecture: all
+Essential: no
+Priority: optional
+Depends: rsync
+Maintainer: ilan.shavit@gmail.com
+Description: bu - backup usb tool
